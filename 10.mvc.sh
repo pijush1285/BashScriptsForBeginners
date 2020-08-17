@@ -44,7 +44,7 @@ cd $result
 
 
 #2. Sort BAM for SNP calling
-#cd $result¢
+#cd $resultÂ¢
 #$samtools sort $result/simu_out.bam > simu_sorted.bam
 
 
@@ -56,7 +56,7 @@ locaofref=/data/sata_data/workshop/wsu28/mosquito/mosquitoRG/ncbi-genomes-2020-0
 #echo "samtools faidx completed."
 
 
-#2. Run 'mpileup' to generate VCF format¢
+#2. Run 'mpileup' to generate VCF formatÂ¢
 cd $result
 #$samtools mpileup -g -f $refFasta $result/simu_sorted.bam > file.mpileup.bcf
 #echo "mileup completed."
