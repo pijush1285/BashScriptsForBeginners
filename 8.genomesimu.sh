@@ -1,4 +1,12 @@
 
+###################################################################################
+#
+#This program will able to simulate the genome inserting n number od SNP randomely.
+#The name of the package is simuG used for this simulation operaion.
+#
+###################################################################################
+
+
 pl=/data/sata_data/workshop/wsu28/mosquito/simuG
 
 
